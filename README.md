@@ -65,3 +65,5 @@ convert_amount = response_data['result']['convertedAmount']
 1) copy the whole currency_convert() function, and paste it to your main .py file.
 2) call the currency_convert() function from the UI - converter button, then the converted amount will be able to display to users.
 
+## UML sequence diagram
+![image](https://user-images.githubusercontent.com/78334822/235052844-ca0ac4cd-c273-4cf2-be99-553daa413494.png)
