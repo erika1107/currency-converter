@@ -40,7 +40,7 @@ def currency_convert():
 ```
 
 ## Receiving data from the microservice
-The microservice will respond with a JSON object which includes:
+The microservice will receive a JSON object which includes:
 1) "result" : an object contains currencies and converted amount
 2) "success" : a boolean whether the conversion is succussful.
 
