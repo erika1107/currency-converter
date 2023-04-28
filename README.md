@@ -66,5 +66,6 @@ convert_amount = response_data['result']['convertedAmount']
 2) call the currency_convert() function from the UI - converter button, then the converted amount will be able to display to users.
 
 ## UML sequence diagram
-![image](https://user-images.githubusercontent.com/78334822/235053504-8ea5e5fe-360a-4538-a664-0f711b9919c7.png)
+![image](https://user-images.githubusercontent.com/78334822/235054890-38cadcd7-62fe-439b-b909-080e7b4bcd2e.png)
+
 
