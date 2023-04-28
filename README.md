@@ -1,6 +1,9 @@
-# Currency-converter
+# Currency-converter microservice
 
-This microservice allows you to convert currencies by using currency converter API.
+This microservice allows you to convert currencies by using currency converter API. It's written in Python and use currency converter API to send and receive data.
+
+## Why the project useful
+This project is useful for anyone who need to convert currencies for personal use or business use. 
 
 ## Installation
 1) Python
@@ -63,7 +66,8 @@ convert_amount = response_data['result']['convertedAmount']
 ```
 ### Running the microservice
 1) copy the whole currency_convert() function, and paste it to your main .py file.
-2) call the currency_convert() function from the UI - converter button, then the converted amount will be able to display to users.
+2) modify the three variables: from_currency, to_currency, amount.
+3) call the currency_convert() function from the UI - converter button, then the converted amount will be displayed to users.
 
 ## UML sequence diagram
 ![image](https://user-images.githubusercontent.com/78334822/235054890-38cadcd7-62fe-439b-b909-080e7b4bcd2e.png)
