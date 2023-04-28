@@ -62,6 +62,6 @@ response_data = response.json()
 convert_amount = response_data['result']['convertedAmount']
 ```
 ### Running the microservice
-1) copy the whole currency_convert() function, and paste it to your main file.
+1) copy the whole currency_convert() function, and paste it to your main .py file.
 2) call the currency_convert() function from the UI - converter button, then the converted amount will be able to display to users.
 
