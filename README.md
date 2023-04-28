@@ -10,7 +10,7 @@ This project is useful for anyone who need to convert currencies for personal us
 2) requests module (you could use 'pip install requests')
 
 ## Requesting data from the microservice
-To convert a currency, you need to make a GET request to the microservice's API endpoint with these three variable.
+To convert a currency, you need to make a GET request to the microservice's API endpoint with these three variables.
 
 1) from_currency : the currency you want to convert from (eg. USD). You can use get() function to get the data from your UI. (eg. currency_1.get())
 2) to_currency: the currency you want to convert to. (eg. JPY). You can use get() function to get the data from your UI. (eg. currency_2.get())
