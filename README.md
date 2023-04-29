@@ -1,4 +1,4 @@
-# Currency-converter microservice
+# Currency-converter microservice communication contract
 
 This microservice allows you to convert currencies by using currency converter API. It's written in Python and use currency converter API to send and receive data.
 
