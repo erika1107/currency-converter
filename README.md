@@ -30,7 +30,7 @@ def currency_convert():
 
     headers = {
         "content-type": "application/octet-stream",
-        "X-RapidAPI-Key": "5993f7ce6dmsh39e85effa93f4e9p1b4e25jsn8acfd458018b",
+        "X-RapidAPI-Key": " ",
         "X-RapidAPI-Host": "currency-converter18.p.rapidapi.com"
     }
 
